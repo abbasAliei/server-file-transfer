@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Server File Transfer</string>
+
+    <string name="main_title">Send File To Server</string>
+    <string name="main_send_image">Send Image</string>
+    <string name="main_send_video">Send Video</string>
+
+    <string name="main_permissionMessage">We Need Permission to Access Your Photos and Videos</string>
+    <string name="main_sendFileSuccess">send file was successful</string>
+</resources>
